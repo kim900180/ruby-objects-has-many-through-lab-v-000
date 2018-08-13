@@ -13,10 +13,10 @@ class Doctor
   end
 
   def appointments
-    
+
   end
 
-  def patient
+  def patients
   end
 
   def self.all
